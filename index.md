@@ -1,8 +1,5 @@
 # Privacy Policy — 40NSEW
 
-**Effective date:** 17 November 2026
-**Last updated:** 17 November 2026
-
 This Privacy Policy explains how **Shez Care Foundation** ("we", "us", "our") collects, uses, shares and protects information when you use the **40NSEW** mobile application (the "App"), a platform for registering donees and recording the collection and distribution of donations such as food, clothing, education, health and shelter support.
 
 By using the App, you agree to the practices described in this policy. If you do not agree, please do not use the App.
@@ -18,7 +15,7 @@ By using the App, you agree to the practices described in this policy. If you do
 - **Donation and distribution records:** details of items donated, received or distributed, with the date and place.
 
 ### 1.2 Information collected automatically
-- **Location:** precise (GPS) and approximate location, used to tag donation and distribution records with their place, to show nearby locations on maps, and to let you pick an address. If you grant background location permission, location may also be collected while the App is not open, only to complete location-tagged records.
+- **Location:** precise (GPS) and approximate location, used to tag donation and distribution records with their place, to show nearby locations on maps, and to let you pick an address. Location is collected only while you are using the App; it is never collected in the background.
 - **Device and usage information:** device model, operating system version, app version, network state, and how you interact with the App.
 - **Crash and diagnostic data:** crash logs and performance information, used to find and fix problems.
 
@@ -44,7 +41,7 @@ We do **not** sell your personal information, and we do not use it for third-par
 
 | Permission | Why it is used |
 |---|---|
-| Location (fine, coarse, background) | Tag records with location, show maps, pick addresses |
+| Location (precise and approximate, only while the App is in use) | Tag records with location, show maps, pick addresses |
 | Camera | Take profile, donee and distribution photos |
 | Photos / storage | Select and save images used in the App |
 | Accounts / credentials | Sign in with your Google account |
@@ -116,6 +113,6 @@ We may update this Privacy Policy from time to time. When we do, we will change 
 
 If you have questions about this Privacy Policy or want to exercise your rights, contact:
 
-Shez Care Foundation
-Email: info@shezcarefdn.org
-Address: 2420 River Rd. Ste 230-5031, Norco, CA 92860
+**Shez Care Foundation**
+Email: **info@shezcarefdn.org**
+Address: **2420 River Rd. Ste 230-5031, Norco, CA 92860**
